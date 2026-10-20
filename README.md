@@ -111,7 +111,7 @@ global-freelancers-dashboard/
 Mathematician | Data Analyst | Data Scientist | Lead, Creative Designer | Brand Guide Developer |
 
 📧 uchebutone@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/abraham-emmanuel-35a746193/) | [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/abraham-emmanuel-35a746193/) | [GitHub](https://github.com/abrahamemmanuel-dev)
 
 ---
 
