@@ -2,7 +2,8 @@
 
 An interactive Excel dashboard that analyses **1,000 global freelancers** by primary skill, performance (rating), experience, pricing, language, country, and activity status.
 
-![Dashboard Preview](images/dashboard.png)
+<img width="2260" height="1084" alt="Dashboard" src="https://github.com/user-attachments/assets/3130bc85-abc2-482a-9507-0848849f5268" />
+
 
 ---
 
